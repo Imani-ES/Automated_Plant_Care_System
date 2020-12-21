@@ -1,4 +1,6 @@
-// Le Farmers
+// Authors:
+//Imani Muhammad-Graham github@ Imani-ES
+// Brian Chen - github@ frostedbranflakes
 //November 2020
 //Project 3: Automated Plant Care System
 //This system will help you keep plants alive in your home through the use of technology.
